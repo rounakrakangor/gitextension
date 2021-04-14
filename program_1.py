@@ -1,4 +1,4 @@
-# split without using split function
+# split without using split function.
 s = 'rounak rakangor'
 l = []
 nl = []
